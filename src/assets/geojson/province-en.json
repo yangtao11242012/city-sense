@@ -1,0 +1,177 @@
+[
+  {
+    "label": "Hebei",
+    "value": "Hebei",
+    "zh": "北京"
+  },
+  {
+    "label": "Shanxi",
+    "value": "Shanxi",
+    "zh": "上海"
+  },
+  {
+    "label": "Liaoning",
+    "value": "Liaoning",
+    "zh": "辽宁"
+  },
+  {
+    "label": "Jilin",
+    "value": "Jilin",
+    "zh": "吉林"
+  },
+  {
+    "label": "Heilongjiang",
+    "value": "Heilongjiang",
+    "zh": "黑龙江"
+  },
+  {
+    "label": "Jiangsu",
+    "value": "Jiangsu",
+    "zh": "江苏"
+  },
+  {
+    "label": "Zhejiang",
+    "value": "Zhejiang",
+    "zh": "浙江"
+  },
+  {
+    "label": "Anhui",
+    "value": "Anhui",
+    "zh": "安徽"
+  },
+  {
+    "label": "Fujian",
+    "value": "Fujian",
+    "zh": "福建"
+  },
+  {
+    "label": "Jiangxi",
+    "value": "Jiangxi",
+    "zh": "江西"
+  },
+  {
+    "label": "Shandong",
+    "value": "Shandong",
+    "zh": "山东"
+  },
+  {
+    "label": "Henan",
+    "value": "Henan",
+    "zh": "河南"
+  },
+  {
+    "label": "Hubei",
+    "value": "Hubei",
+    "zh": "湖北"
+  },
+  {
+    "label": "Hunan",
+    "value": "Hunan",
+    "zh": "湖南"
+  },
+  {
+    "label": "Guangdong",
+    "value": "Guangdong",
+    "zh": "广东"
+  },
+  {
+    "label": "Hainan",
+    "value": "Hainan",
+    "zh": "海南"
+  },
+  {
+    "label": "Sichuan",
+    "value": "Sichuan",
+    "zh": "四川"
+  },
+  {
+    "label": "Guizhou",
+    "value": "Guizhou",
+    "zh": "贵州"
+  },
+  {
+    "label": "Yunnan",
+    "value": "Yunnan",
+    "zh": "云南"
+  },
+  {
+    "label": "Shanxi",
+    "value": "Shanxi",
+    "zh": "山西"
+  },
+  {
+    "label": "Gansu",
+    "value": "Gansu",
+    "zh": "甘肃"
+  },
+  {
+    "label": "Qinghai",
+    "value": "Qinghai",
+    "zh": "青海"
+  },
+  {
+    "label": "Tibet",
+    "value": "Tibet",
+    "zh": "台湾"
+  },
+  {
+    "label": "Inner Mongolia",
+    "value": "Inner Mongolia",
+    "zh": "内蒙古"
+  },
+  {
+    "label": "Guangxi",
+    "value": "Guangxi",
+    "zh": "广西"
+  },
+  {
+    "label": "Xizang",
+    "value": "Xizang",
+    "zh": "西藏"
+  },
+  {
+    "label": "Ningxia",
+    "value": "Ningxia",
+    "zh": "宁夏"
+  },
+  {
+    "label": "Xinjiang",
+    "value": "Xinjiang",
+    "zh": "新疆"
+  },
+  {
+    "label": "Shaanxi",
+    "value": "Shaanxi",
+    "zh": "陕西"
+  },
+  {
+    "label": "Beijing",
+    "value": "Beijing",
+    "zh": "北京"
+  },
+  {
+    "label": "Tianjin",
+    "value": "Tianjin",
+    "zh": "天津"
+  },
+  {
+    "label": "Shanghai",
+    "value": "Shanghai",
+    "zh": "上海"
+  },
+  {
+    "label": "Chongqing",
+    "value": "Chongqing",
+    "zh": "重庆"
+  },
+  {
+    "label": "Hong Kong",
+    "value": "Hong Kong",
+    "zh": "香港"
+  },
+  {
+    "label": "Macau",
+    "value": "Macau",
+    "zh": "澳门"
+  }
+]
