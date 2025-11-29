@@ -208,7 +208,7 @@ async function handleSend() {
       .filter(m => m.role === 'assistant' || m.role === 'user')
       .slice(-10) // 只保留最近10轮对话作为上下文
       .map(m => ({
-        role: m.role === 'user' ? 'user' : 'assistant',
+        role: (m.role === 'user' ? 'user' : 'assistant') as 'user' | 'assistant',
         content: m.content
       }))
 

@@ -12,7 +12,7 @@ import type { CityEvent, SensorData, AIAnalysisResult } from '@/types'
  * 文心一言 API 配置
  * 请在项目根目录的 .env 文件中配置：VITE_WENXIN_API_KEY=your_api_key
  */
-const API_KEY = (import.meta.env as any).VITE_WENXIN_API_KEY || ''
+const API_KEY = import.meta.env.VITE_WENXIN_API_KEY || ''
 const API_URL = 'https://qianfan.baidubce.com/v2/chat/completions'
 const MODEL = 'ernie-3.5-8k' // 使用的模型名称
 
@@ -237,7 +237,7 @@ export async function chatWithAI(
     throw new Error('请配置 VITE_WENXIN_API_KEY 环境变量')
   }
 
-  const messages: Array<{ role: string; content: string }> = [
+  const messages: Array<{ role: 'user' | 'assistant' | 'system'; content: string }> = [
     {
       role: 'system',
       content: '你是一个智慧城市运行态势分析助手，可以帮助用户查询和分析城市运行数据。请根据用户的问题，结合提供的数据信息，给出准确、详细的回答。'
